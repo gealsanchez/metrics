@@ -6,6 +6,10 @@
 
 </div>
 
+## 🚀 Presentation Video <a name="live-demo"></a>
+
+- [Video link](https://www.loom.com/share/df285bced6c942c69f81591f4b8de3a2)
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -30,9 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 BookStore <a name="about-project"></a>
+# 📖 React Capstone Project <a name="about-project"></a>
 
-**The NBA DB** This project shows data about players and teams from the NBA
+**The NBA DB Project** shows data about players and teams from the NBA
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -142,7 +146,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-N/A
+I would like to thank Microverse and [Nelson Sakwa en Behance](https://www.behance.net/sakwadesignstudio)(Original design idea).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
