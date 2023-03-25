@@ -8,7 +8,7 @@
 
 ## 🚀 Presentation Video <a name="live-demo"></a>
 
-- [Video link](https://www.loom.com/share/df285bced6c942c69f81591f4b8de3a2)
+- [Video link](https://www.loom.com/share/7cca697b82554e42ab87a848ee7e3b2e)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- - [Live Demo Link](https://deluxe-beijinho-fff06a.netlify.app/)
+- - [Live Demo Link](https://gilded-caramel-606d92.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
