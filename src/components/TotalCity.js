@@ -16,7 +16,7 @@ const TotalCity = ({ citySelected }) => {
       <img className="world-map-img" src={citySelected.image} alt="World Map" />
       <div className="total-world-container-text">
         <h2 className="name-city">{citySelected.city}</h2>
-        <h2 className="name-city">{citySelected.team}</h2>
+        <h2 className="name-city">{citySelected.name}</h2>
         <p className="text-views">{totalCountryViews}</p>
       </div>
     </section>
@@ -29,7 +29,7 @@ TotalCity.propTypes = {
   citySelected: PropTypes.shape({
     id: PropTypes.number,
     city: PropTypes.string,
-    team: PropTypes.string,
+    name: PropTypes.string,
     image: PropTypes.string,
   }).isRequired,
 };

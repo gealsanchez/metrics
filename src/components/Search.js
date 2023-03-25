@@ -12,12 +12,12 @@ function Search() {
     event.preventDefault();
     setSearch(event.target.value);
   };
+
   const handleSubmit = (event) => {
     event.preventDefault();
-    const searchCities = [];
-    const city = cities.find((city) => (city.city.toLowerCase()) === search.toLowerCase());
-    searchCities.push(city);
-    if (city) {
+    const s = search.toLowerCase();
+    const searchCities = cities.filter((city) => city.city.toLowerCase().includes(s));
+    if (searchCities.length > 0) {
       dispatch(searchCity(searchCities));
     } else {
       setSearch('');
