@@ -97,7 +97,7 @@ nav {
 .city-container:nth-child(5),
 .city-container:nth-child(4),
 .city-container:nth-child(1) {
-background-color: #c10000;
+  background-color: #c10000;
 }
 
 .show-icon {
