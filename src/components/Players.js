@@ -17,7 +17,7 @@ const Players = ({ citySelected }) => {
               <div className="player-list-container-views">
                 <p className="text-views">
                   <span className="player-views">{player.id}</span>
-                  views
+                  <span className="player-views">views</span>
                 </p>
                 <button type="button" className="show-icon"><img src={ShowIcon} alt="Show icon" /></button>
               </div>

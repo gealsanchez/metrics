@@ -127,11 +127,13 @@ nav {
 .player-list-container-views {
   display: flex;
   margin-left: auto;
+  margin-right: 2%;
   align-items: center;
+  justify-content: center;
 }
 
 .player-views {
-  margin: 10% 1%;
+  margin: 10% 2%;
 }
 
 .name-city {
