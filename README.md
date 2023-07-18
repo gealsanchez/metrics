@@ -38,6 +38,11 @@
 
 **The NBA DB Project** shows data about players and teams from the NBA
 
+![metrics3](https://github.com/gealsanchez/metrics/assets/94255143/ae8df8bc-0284-4265-b371-4aaef5470909)
+
+![metrics2](https://github.com/gealsanchez/metrics/assets/94255143/7390544c-89ea-49c5-94a5-b2c448ace838)
+
+![metrics1](https://github.com/gealsanchez/metrics/assets/94255143/e9a2011d-7fc1-46dc-a021-c1c46cc2aa31)
 
 ## 🛠 Built With <a name="built-with"></a>
 
